@@ -3,37 +3,37 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "storageAccounts_esdpdiag_name": {
-            "value": null
+            "value": "esdpdiag"
         },
         "virtualNetworks_az1_sghpf_dmz_network_name": {
-            "value": null
+            "value": "az1_sghpf_dmz_network"
         },
         "networkInterfaces_az1_sghpf_server_k8s450_name": {
-            "value": null
+            "value": "az1-sghpf-server-k8s450"
         },
         "virtualMachines_az1_sghpf_server_k8s_node_00_name": {
-            "value": null
+            "value": "az1-sghpf-server-k8s-node-00"
         },
         "virtualNetworks_az1_sghpf_common_service_network_name": {
-            "value": null
+            "value": "az1_sghpf_common_service_network"
         },
         "virtualNetworks_az1_sghpf_common_management_network_name": {
-            "value": null
+            "value": "az1_sghpf_common_management_network"
         },
         "networkInterfaces_az1_sghpf_port_k8s_node_00_service_00_name": {
-            "value": null
+            "value": "az1_sghpf_port_k8s_node_00_service_00"
         },
         "networkInterfaces_az1_sghpf_port_k8s_node_00_management_00_name": {
-            "value": null
+            "value": "az1_sghpf_port_k8s_node_00_management_00"
         },
         "schedules_shutdown_computevm_az1_sghpf_server_k8s_node_00_name": {
-            "value": null
+            "value": "shutdown-computevm-az1-sghpf-server-k8s-node-00"
         },
         "networkSecurityGroups_az1_sghpf_security_group_k8s_node_service_name": {
-            "value": null
+            "value": "az1_sghpf_security_group_k8s_node_service"
         },
         "networkSecurityGroups_az1_sghpf_security_group_k8s_node_management_name": {
-            "value": null
+            "value": "az1_sghpf_security_group_k8s_node_management"
         }
     }
 }
