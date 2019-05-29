@@ -522,8 +522,7 @@
                         "createOption": "FromImage",
                         "caching": "ReadWrite",
                         "managedDisk": {
-                            "storageAccountType": "Standard_LRS",
-                            "id": "[resourceId('Microsoft.Compute/disks', concat(parameters('virtualMachines_az1_sghpf_server_k8s_node_00_name'), '_OsDisk_1_20e25ec87c614983a30d25a46fc544ee'))]"
+                            "storageAccountType": "Standard_LRS"
                         },
                         "diskSizeGB": 30
                     },
